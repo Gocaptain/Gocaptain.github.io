@@ -12,9 +12,9 @@
 
 @import url(http://fonts.googleapis.com/css?family=Cutive%20Mono:400);
 p {
-	font-size: 14px;
-	line-height: 22.4px;
-	color: #6c7279;
+	font-size: 16px;
+	line-height: 23px;
+	color: #464a4e;
 }
 h1 {
 	font-size: 65px;
@@ -35,9 +35,15 @@ h4 {
 	font-weight: 400;
 }
 h5 {
-	font-size: 14px;
+	font-size: 18px;
 	color: #2d3033;
 	font-weight: 700;
+}
+
+h6 {
+	font-size: 10px;
+	color: #2d3033;
+	font-weight: 500;
 }
 .btn {
 	background-color: #333;
